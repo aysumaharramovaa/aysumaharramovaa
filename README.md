@@ -39,33 +39,10 @@
 
 ---
 
-### 📊 GitHub Stats
+<h1>Hi 👋, I'm </h1>
+<p>A passionate frontend developer from </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysumaharramovaa&show_icons=true&locale=en&theme=radical" alt="Aysu's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aysumaharramovaa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysumaharramovaa&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
