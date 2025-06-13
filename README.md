@@ -38,12 +38,11 @@
 </p>
 
 ---
-### 🔥 GitHub Streak Stats
+### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysumaharramovaa&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 
 ### 📫 Connect with Me
