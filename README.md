@@ -38,10 +38,10 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies
+### 📊 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aysumaharramovaa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aysumaharramovaa&show_icons=true&theme=radical" alt="GitHub Profile Stats" />
 </p>
 
 
