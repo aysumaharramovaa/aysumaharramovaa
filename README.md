@@ -38,10 +38,11 @@
 </p>
 
 ---
+### 👀 Visitors Count
 
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aysumaharramovaa&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 
 ### 📫 Connect with Me
