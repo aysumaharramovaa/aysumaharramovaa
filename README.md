@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysu Maharramova</h1>
 <h3 align="center">💻 A passionate Frontend Developer from Azerbaijan</h3>
 
-<p align="center">🔭 I’m currently working on <a href="https://printly.az" target="_blank">printly.az</a> &amp; <a href="https://crm.printly.az" target="_blank">crm.printly.az</a></p>
+<p align="center">🔭 I’m currently working on <a href="https://printly.az" target="_blank">printly.az</a></p>
 
 ---
 
