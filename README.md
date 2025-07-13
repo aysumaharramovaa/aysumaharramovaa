@@ -37,6 +37,10 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/file/abc123/Project-Design" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
