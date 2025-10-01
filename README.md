@@ -48,7 +48,15 @@
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- PHP Badge -->
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  </a>
 </p>
 
 
