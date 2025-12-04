@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysu Maharramova</h1>
 <h3 align="center">💻 A passionate Frontend Developer from Azerbaijan</h3>
 
-<p align="center">🔭 I’m currently working on Printly </p>
+<p align="center">Passionate front-end developer with a knack for creating intuitive and dynamic user interfaces. Skilled in HTML, CSS, JavaScript, TypeScript, React and Node.js. Continuously learning and exploring new technologies to enhance web experiences. </p>
 
 ---
 
