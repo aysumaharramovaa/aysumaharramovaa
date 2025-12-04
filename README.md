@@ -45,11 +45,14 @@
 </p>
 
 ---
+
+
 ### 📈 Top Languages
 
 <p align="center">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  <a href="https://github.com/aysumaharramovaa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  </a>
 </p>
 
 
