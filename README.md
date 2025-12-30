@@ -53,6 +53,14 @@
 </p>
 
 
+<h3 align="center">📊 Top Languages</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
 
 
 ### 📫 Connect with Me
