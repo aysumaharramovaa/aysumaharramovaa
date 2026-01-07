@@ -26,10 +26,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
- ## 📈 Language Usage
+## 📊 Most Used Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&langs_count=8&theme=react)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=tokyonight)
 
 
 ### 📫 Connect with Me
