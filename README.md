@@ -25,9 +25,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Graph
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aysumaharramovaa&theme=tokyonight&row=1)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 Connect with Me
