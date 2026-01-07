@@ -25,9 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=aysumaharramovaa&style=for-the-badge)
 
 
 ## 📫 Connect with Me
