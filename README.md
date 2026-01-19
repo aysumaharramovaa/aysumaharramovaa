@@ -3,8 +3,6 @@
 
 <p align="center">Passionate Front-End Developer crafting intuitive and dynamic user interfaces. Always learning new technologies to enhance web experiences.</p>
 
-
-
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
