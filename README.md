@@ -3,6 +3,10 @@
 
 <p align="center">Passionate Front-End Developer crafting intuitive and dynamic user interfaces. Always learning new technologies to enhance web experiences.</p>
 
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=tokyonight)
+
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend
