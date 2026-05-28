@@ -31,8 +31,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&langs_count=8&theme=tokyonight)
+## 💻 Most Used Languages
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
 
