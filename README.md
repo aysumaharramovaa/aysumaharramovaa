@@ -30,9 +30,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&langs_count=8&theme=tokyonight)
+
 
 ## 📫 Connect with Me
 
