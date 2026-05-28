@@ -3,9 +3,6 @@
 
 <p align="center">Passionate Front-End Developer crafting intuitive and dynamic user interfaces. Always learning new technologies to enhance web experiences.</p>
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact)
 
 ## 🛠️ Tech Stack & Tools
 
@@ -33,7 +30,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+## 💻 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aysumaharramovaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=tokyonight" />
+</p>
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysumaharramova/)
