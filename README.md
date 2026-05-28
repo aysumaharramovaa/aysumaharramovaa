@@ -30,7 +30,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aysumaharramovaa&show_icons=true)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact)
 
 ## 📫 Connect with Me
 
