@@ -30,7 +30,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME)](https://wakatime.com)
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysumaharramovaa&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with Me
 
