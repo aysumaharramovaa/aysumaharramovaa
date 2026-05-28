@@ -5,7 +5,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aysumaharramovaa&layout=compact)
 
 ## 🛠️ Tech Stack & Tools
 
