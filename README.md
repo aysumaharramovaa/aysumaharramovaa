@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aysu Maharramova</h1>
-<h3 align="center">💻 A passionate Frontend Developer from Azerbaijan</h3>
 
-<p align="center">Passionate Front-End Developer crafting intuitive and dynamic user interfaces. Always learning new technologies to enhance web experiences.</p>
 
 
 ## 🛠️ Tech Stack & Tools
