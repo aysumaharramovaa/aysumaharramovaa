@@ -1,11 +1,7 @@
 # Hi, I'm Aysu 👋
 
-**Software & Technology | IT Project Management | Innovation**
+**Computer Vision**
 
-Passionate about **software, AI, and defense technology**.
+Currently focusing on **Computer Vision**, exploring image processing, deep learning, and AI-powered visual systems.
 
-Currently learning **Rust** and exploring emerging technologies.
-
-### Tech
-
-`Python` `C++` `Rust` `JavaScript` `TypeScript` `React` `SQL` `Git`
+`Python` `C++` `Rust` `OpenCV` `PyTorch` `NumPy` `Git`
